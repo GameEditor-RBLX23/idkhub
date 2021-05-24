@@ -1,1 +1,3 @@
+plr = game.Player.LocalPlayer
 
+plr:kick(""its ur own fault that the script is gone, and with own i mean lucious)
